@@ -3,7 +3,7 @@ Hi its my first mini project its not related to my field by as most of the cs st
 
 Ye ek simple calculator project hai jo maine Python  use karke banaya hai. ofcourse ai ki help lii hai 
 
-## Features is wahi normal wale hai 
+## Features isme wahi normal wale hai 
 - Basic operations (+, -, *, /, %)
 - Decimal input sahi handle karta hai
 - Same operator repeat nahi hone deta
