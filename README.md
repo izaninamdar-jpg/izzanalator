@@ -1,6 +1,5 @@
 # izznalator
-Hi its my first mini project its not related to my field by as most of the cs students make calculator as their first project I also tried 
-# Izzanalator 
+Hi its my first mini project its not related to my field by as most of the cs students make calculator as their first project I also tried andddd
 
 Ye ek simple calculator project hai jo maine Python  use karke banaya hai. ofcourse ai ki help lii hai 
 
